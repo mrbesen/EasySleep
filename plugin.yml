@@ -1,0 +1,8 @@
+name: EasySleep
+main: me.yannisgerlach.easysleep.Main
+version: 1.0
+description: not evrybody have to be in the bed vor sleeping...
+load: POSTWORLD
+author: Yannis Gerlach
+website: http://dev.bukkit.org/bukkit-plugins/easyseep/
+prefix: EasySleep1.0

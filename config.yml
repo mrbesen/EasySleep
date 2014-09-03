@@ -1,0 +1,13 @@
+lang:
+  enter_bed: ' goes to sleep. Now sleeping: '
+  leave_bed: ' is awake'
+  in_dimesion: 'In the world: '
+
+#german
+#  enter_bed: ' hat sich ins Bett gelegt. Es schlafen: '
+#  leave_bed: ' ist aufgestanden.'
+#  in_dimesion: 'In der Welt '
+#to use german just copy it.
+
+options:
+  percent_of_sleeping_persons: 50
